@@ -1,6 +1,6 @@
 <h3 align="center">Hi, I'm Yash</h3>
 <div id="header" align="center">
-  <a href="https://imgur.com/oKGXMYE"><img src="https://i.imgur.com/oKGXMYE.jpg" title="source: imgur.com" height="400" width="400" /></a>
+  <a href="https://imgur.com/Jk3bJH6"><img src="https://i.imgur.com/Jk3bJH6.jpg" title="source: imgur.com" height="400" width="400" /></a>
   <p align = "left"><br>An aspiring software developer by day, coffee connoisseur by night! Skilled in backend development, I'm on an exciting journey to master all aspects of technology and software.</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
