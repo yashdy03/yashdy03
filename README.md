@@ -1,5 +1,6 @@
-<h3 align="center">software developer by day, coffee connoisseur by night!</h3>
-
+<h3 align="center">software developer by day <br>coffee connoisseur by night!</h3>
+<div id="header" align="center">
+  <a href="https://imgur.com/oKGXMYE"><img src="https://i.imgur.com/oKGXMYE.jpg" title="source: imgur.com" height="400" width="400" /></a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yashdy03" target="blank"><img align="center" src="" alt="yashdy03" height="30" width="40" /></a>
