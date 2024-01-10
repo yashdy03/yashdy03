@@ -1,7 +1,7 @@
 <h3 align="center">Hi, I'm Yash</h3>
 <div id="header" align="center">
   <a href="https://imgur.com/Jk3bJH6"><img src="https://i.imgur.com/Jk3bJH6.jpg" title="source: imgur.com" height="400" width="400" /></a>
-  <p align = "left"><br>An aspiring software developer by day, coffee connoisseur by night! Skilled in backend development, I'm on an exciting journey to master all aspects of technology and software.</p>
+  <p align = "left"><br>Software developer by day, coffee connoisseur by night! Skilled in backend development, I'm on an exciting journey to master all aspects of technology and software.</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yashdy03" target="blank"><img align="center" src="https://i.imgur.com/6koHRMo.png" alt="yashdy03" height="30" width="30" /></a>
